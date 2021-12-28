@@ -1,0 +1,13 @@
+.env
+node_modules
+db.json
+build/**/*
+data/**/*
+public/build/**/*
+public/preview/**/*
+public/build
+public/bundle.js
+public/bundle.js.map
+.svelte-kit/**/*
+.DS_Store
+.vercel_build_output
